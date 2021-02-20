@@ -15,7 +15,7 @@ pipeline {
         DEV_PROJECT = "stefpro-sense-books-dev"
         STAGE_PROJECT = "stefpro-sense-books-stage"
         APP_GIT_URL = "https://github.com/stefproSense/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.ap45.prod.nextcle.com"
+        NEXUS_SERVER = "http://nexus-common.apps.ap45.prod.nextcle.com/reposiory/nodejs"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "books"
